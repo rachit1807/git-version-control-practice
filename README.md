@@ -141,13 +141,15 @@ Through this project I gained hands-on experience with:
 
 # 📊 Development Workflow
 
+## 📊 Development Workflow
+
 | Step | Description | Status |
-|------|-------------|:------:|
+|------|-------------|--------|
 | 1 | Create Project Structure | ✅ |
 | 2 | Initialize Git Repository | ✅ |
-| 3 | Create Landing Page | ⏳ |
-| 4 | Create About Page | ⏳ |
-| 5 | Style Website | ⏳ |
+| 3 | Create Landing Page | ✅ |
+| 4 | Style Website | ✅ |
+| 5 | Create Initial Commit | ✅ |
 | 6 | Create Feature Branch | ⏳ |
 | 7 | Merge Branch | ⏳ |
 | 8 | Push to GitHub | ⏳ |
